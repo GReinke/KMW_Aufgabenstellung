@@ -4,7 +4,7 @@ public class Main {
 
 
         //TESTFÄLLE
-/**
+/*
         ClientList.addClient(new Client("Max", "Mustermann", true));
         ClientList.addClient(new Client("Lisa", "Musterfrau", false));
 
@@ -29,7 +29,7 @@ public class Main {
         System.out.println("After transferring 200.01€ from Lisa to Max\n" +
                 "Max: " + ClientList.getClient("001").getBalance() +"\n" +
                 "Lisa: " + ClientList.getClient("002").getBalance());
-**/
+*/
 
     Console.mainMenu();
     }
